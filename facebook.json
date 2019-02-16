@@ -1,0 +1,21 @@
+{
+	"fb_app_token":"your app token here",
+	"fb_page_token":"your page token here",
+	"feeds": [
+		{
+			"name":"Facebook Articles",
+			"url":"https://web1.moruya-h.schools.nsw.edu.au/site/index.php?format=feed&type=rss",
+			"type":"link",
+			"max_posts":1,
+			"ignore_category":[
+				"Facebook"
+				]
+		},
+		{
+			"name":"Facebook Status Updates",
+			"url":"https://web1.moruya-h.schools.nsw.edu.au/site/index.php/facebook-rss?format=feed&type=rss",
+			"type":"long",
+			"max_posts":1
+		}
+	]
+}
