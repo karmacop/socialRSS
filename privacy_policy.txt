@@ -1,0 +1,60 @@
+#Privacy Policy
+
+Effective date: February 16, 2019
+
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use socialRSS and the choices you have associated with that data.
+
+We do not collect your data. If you use socialRSS, you may collect data from other entities and you should do so responsibly.
+
+##Information Collection And Use
+We do not collect information about you. If you use socialRSS you will collect several different types of information to ensure the service runs correctly and to reduce spamming.
+
+###Types of Data Collected
+When using socialRSS, it will collect URLs and publishing dates from the selected RSS feeds to stop reposts and limit spamming. This data includes but is not limited to:
+RSS URL
+RSS item URL and publishing date
+
+##Use of Data
+
+When using socialRSS, you will use the collected data for various purposes:
+..* To detect, prevent and address technical issues
+
+##Transfer Of Data
+
+Your information, including Personal Data, will not be transferred to — or maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction as we do not store yoru data.
+
+##Disclosure Of Data
+
+We are unable disclose your Personal Data as we do not store it.
+
+##Security Of Data
+
+The security of your data is important to us which is why we do not store your personal data.
+
+##Service Providers
+
+We will not employ third party companies and individuals to facilitate our Service and no such company or individual will have access to your Personal Data.
+
+##Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+##Children's Privacy
+
+Our Service does not address anyone under the age of 18 ("Children").
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+##Contact Me
+
+If you have any questions about this Privacy Policy, please contact us:
+    By email: glenn DOT tester AT gmail DOT com
